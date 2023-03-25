@@ -27,3 +27,11 @@
 
 
 [Chapter 05]:https://github.com/yoon1000/Firtst_met_React/tree/main/my-app/src/chapter_05
+
+
+### [Chapter 06]
+(실습) State 사용해보기
+
+
+
+[Chapter 06]: https://github.com/yoon1000/Firtst_met_React/tree/main/my-app/src/chapter_06
